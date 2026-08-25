@@ -1,5 +1,7 @@
 packages/admin/tests/components/MediaLibrary.test.tsx
   s_f8532f0b8288f2::t_2a6fc4c53ec1ec 411,415-416
+packages/admin/src/components/MediaLibrary.tsx
+  s_f8532f0b8288f2::t_fdb6077c2fdff4 2
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -7,6 +9,14 @@ packages/admin/tests/components/MediaLibrary.test.tsx
   "base_commit_sha": "0f225ebe77559139570cef6231360b60f99be9b5",
   "prompts": {},
   "sessions": {
+    "s_202b6e3937f527": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a02131-bc26-71b2-bbac-02e6cb5fe95f",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
     "s_97e3674bdac896": {
       "agent_id": {
         "tool": "codex",
