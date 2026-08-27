@@ -159,8 +159,8 @@ packages/admin/src/lib/api/media.ts
   s_97e3674bdac896::t_ccb0afc88950a0 67-69,77,83,86,106
   s_f8532f0b8288f2::t_84a6e77efc0a73 54-66,70-71,80,92-96,115-122,129-186,432-440,445
 .changeset/flat-media-folders.md
-  s_2475d4feb449ab::t_b4872d3e03de0a 1-4,9-20
-  s_3e8fc308d8a272::t_6d6f04aff146d6 9-20
+  s_2475d4feb449ab::t_b4872d3e03de0a 1-4,1-7,9-20,10-20
+  s_3e8fc308d8a272::t_6d6f04aff146d6 5-7,9-20,10-20
 docs/src/content/docs/guides/media-library.mdx
   s_2475d4feb449ab::t_319bdcf1411f3c 9,159
   s_f8532f0b8288f2::t_f694ffa6fc505a 24,169-177,181-182
