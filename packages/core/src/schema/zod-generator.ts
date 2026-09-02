@@ -122,7 +122,7 @@ function getBaseSchema(type: FieldType, field: Pick<Field, "validation">): ZodTy
 			// renderers dispatch on it, but `_key` is intentionally optional:
 			// it's a UI-layer concern that the editor regenerates on every
 			// change (see `PortableTextEditor`), and the rest of this schema
-			// uses `.passthrough()` for everything below the top level. Making
+			// uses `.loose()` for everything below the top level. Making
 			// `_key` strictly required here was an accidentally tight invariant
 			// that rejected any seed/import data not authored against the
 			// editor (#867 — autosave failures on seeded template content).
